@@ -81,7 +81,7 @@ namespace cSharpPractice
                     String sentence = Console.ReadLine();
                     menu.everyOther(sentence);
                     return 1;
-                default:
+                default: //incorrect input
                     return -1;
             }
 
