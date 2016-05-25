@@ -4,3 +4,4 @@ c:\users\jonny\documents\visual studio 2012\Projects\cSharpPractice\cSharpPracti
 c:\users\jonny\documents\visual studio 2012\Projects\cSharpPractice\cSharpPractice\bin\Debug\cSharpPractice.pdb
 c:\users\jonny\documents\visual studio 2012\Projects\cSharpPractice\cSharpPractice\obj\Debug\cSharpPractice.exe
 c:\users\jonny\documents\visual studio 2012\Projects\cSharpPractice\cSharpPractice\obj\Debug\cSharpPractice.pdb
+C:\Workspace\Projects\CSharpPractice\cSharpPractice\bin\Debug\cSharpPractice.exe.config
